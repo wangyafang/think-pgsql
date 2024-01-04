@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-pgsql",
+    "name": "think-pgsql",
     "description": "PostgreSQL driver for thinkphp",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "wangyafang",
-            "email": "wangyaf@163.com"
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
         }
     ],
     "require": {
